@@ -1,0 +1,21 @@
+{
+  "name": "-proxy-pattern-mrMeeseks-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": { 
+    "test": "jest",
+    "start": "node ./src/main.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgonzalezb/-proxy-pattern-mrMeeseks-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgonzalezb/-proxy-pattern-mrMeeseks-js/issues"
+  },
+  "homepage": "https://github.com/sgonzalezb/-proxy-pattern-mrMeeseks-js#readme"
+}
